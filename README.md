@@ -1,4 +1,6 @@
 myfirstrepo
 ===========
 
-My First Repository
+My First Repository.
+
+This is my first edit
